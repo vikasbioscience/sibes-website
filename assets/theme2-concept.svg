@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Five-stage smart biochip engineering framework">
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#123149}
+.heading{font-size:42px;font-weight:700}
+.sub{font-size:22px;fill:#506e7d}
+.label{font-size:28px;font-weight:700}
+.details{font-size:19px;fill:#547183}
+.note{font-size:20px;fill:#547183}
+.node{fill:#eaf5f5;stroke:#c6e2e2;stroke-width:2}
+.arrow{stroke:#068e95;stroke-width:5;fill:none;stroke-linecap:round;stroke-linejoin:round}
+</style>
+<rect width="1200" height="460" rx="28" fill="#f7fbfc"/>
+<text x="600" y="58" class="heading" text-anchor="middle">Theme 2 — Smart Biochip Engineering</text>
+<text x="600" y="92" class="sub" text-anchor="middle">A design · simulate · fabricate · integrate · apply approach</text>
+<rect x="32" y="145" width="208" height="118" rx="18" class="node"/>
+<text x="136" y="188" class="label" text-anchor="middle">Design</text>
+<text x="136" y="220" class="details" text-anchor="middle">CAD / channel layout</text>
+<text x="136" y="244" class="details" text-anchor="middle">Microwell architectures</text>
+<path class="arrow" d="M245 205 L270 205"/><path d="M257 196 L270 205 L257 214" fill="none" stroke="#068e95" stroke-width="4"/>
+<rect x="275" y="145" width="208" height="118" rx="18" class="node"/>
+<text x="379" y="188" class="label" text-anchor="middle">Simulate</text>
+<text x="379" y="220" class="details" text-anchor="middle">CFD / fluid transport</text>
+<text x="379" y="244" class="details" text-anchor="middle">Mixing and mass transfer</text>
+<path class="arrow" d="M488 205 L513 205"/><path d="M500 196 L513 205 L500 214" fill="none" stroke="#068e95" stroke-width="4"/>
+<rect x="518" y="145" width="208" height="118" rx="18" class="node"/>
+<text x="622" y="188" class="label" text-anchor="middle">Fabricate</text>
+<text x="622" y="220" class="details" text-anchor="middle">Materials &amp; micromachining</text>
+<text x="622" y="244" class="details" text-anchor="middle">3D printing / assembly</text>
+<path class="arrow" d="M731 205 L756 205"/><path d="M743 196 L756 205 L743 214" fill="none" stroke="#068e95" stroke-width="4"/>
+<rect x="761" y="145" width="208" height="118" rx="18" class="node"/>
+<text x="865" y="188" class="label" text-anchor="middle">Integrate</text>
+<text x="865" y="220" class="details" text-anchor="middle">Fluid handling &amp; sensing</text>
+<text x="865" y="244" class="details" text-anchor="middle">Automation / validation</text>
+<path class="arrow" d="M974 205 L999 205"/><path d="M986 196 L999 205 L986 214" fill="none" stroke="#068e95" stroke-width="4"/>
+<rect x="1004" y="145" width="164" height="118" rx="18" class="node"/>
+<text x="1086" y="188" class="label" text-anchor="middle">Apply</text>
+<text x="1086" y="220" class="details" text-anchor="middle">Diagnostics / sensing</text>
+<text x="1086" y="244" class="details" text-anchor="middle">Miniaturized bioprocesses</text>
+<text x="600" y="340" class="note" text-anchor="middle">The fabrication strategy depends on the intended assay, device format and application requirements.</text>
+</svg>
