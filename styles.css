@@ -137,3 +137,40 @@ a:focus-visible,button:focus-visible{outline:3px solid #49c9ce;outline-offset:3p
   .feature-card .pad{padding:20px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.feature-card{transition:none}}
+
+/* Enlarged Theme 1 research figure */
+.theme1-full-figure {
+    width: 100%;
+    height: auto;
+    max-height: none;
+    object-fit: contain;
+    display: block;
+    padding: 0;
+}
+
+/* Wide Theme 1 research figure */
+.theme1-section {
+    padding: 30px 0 40px;
+}
+
+.theme1-wide {
+    max-width: 1500px;
+    width: 96%;
+    margin: 0 auto;
+}
+
+.theme1-full-figure {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: none;
+    object-fit: contain;
+    padding: 0;
+    margin: 15px auto;
+}
+
+.theme1-caption {
+    text-align: center;
+    font-size: 16px;
+    margin: 12px 0 0;
+}
